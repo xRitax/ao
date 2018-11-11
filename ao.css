@@ -1,16 +1,7 @@
-/*
-* HEADS-UP!
-* If you're trying to install the theme into Discord, you should not be reading this.
-* Installing this file directly into Discord will DISABLE the auto-update functionality.
-* Instead install "Miku_theme-auto_update.theme.css" located at: https://github.com/MythikAngel/miku-discord-theme/releases/latest
-* and ignore this file.
-* More in-depth instructions can be found at the homepage of the theme: https://github.com/MythikAngel/miku-discord-theme
-*/
-
 /* NOTE: background */
 .app {
     background-image: url("https://cdn.discordapp.com/attachments/501930704238804993/511105376914112514/bgao.png");
-    background-size: cover !important;
+    background-size: auto !important;
     background-position: center;
 }
 
@@ -338,7 +329,7 @@ div.tab-bar.SIDE {
 
 input.game-input {
   color: #eee !important;
-  font-style: italic !important;
+  font-style: FOT-NewCinemaAStd-D !important;
 }
 
 .has-value>.Select-control>.Select-placeholder, .form .Select-option, .form .has-value .Select-placeholder {
