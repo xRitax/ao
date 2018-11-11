@@ -2,7 +2,7 @@
 .app {
     background-image: url("https://cdn.discordapp.com/attachments/501930704238804993/511105376914112514/bgao.png");
     background-size: cover !important;
-    background-position: center;
+    /*background-position: center;
 }
 
 /* NOTE: Square avatars */
